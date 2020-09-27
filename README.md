@@ -1,2 +1,6 @@
 # PornHub-AutoUpload
-AutoUpload script for PornHub based on Selenium and Python
+AutoUpload(video) Python script for PornHub based on Selenium
+
+## First step: save cookies to txt file
+
+## Second step: login with cookies and autoupload a video
